@@ -136,7 +136,6 @@ That does it for our server. Back in the client, we need to:
 If you did everything correctly, you can now configure our pages to:
 
 - Only allow logged in users to create rooms;
-- Only show rooms that were **not** created by the logged in user in the homepage;
 - Only allow users to edit and delete their own rooms;
 - Only allow logged in users to review existing rooms;
 - Only allow users to edit or delete their own reviews
